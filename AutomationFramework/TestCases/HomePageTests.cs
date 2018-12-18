@@ -8,7 +8,7 @@ using Resources;
 namespace AutomationFramework
 {
     [TestClass]
-    public class WorkOutTest : BaseTest
+    public class HomePageTests : BaseTest
     {
         [TestMethod]
         public void SearchTShirtINSearchBox()
